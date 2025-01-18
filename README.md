@@ -1,12 +1,5 @@
 
-**Invoice Generator**
-
-A Python-based console application designed to manage and generate invoices efficiently. The app allows users to input sender and recipient details, add multiple items with prices and taxes, apply discounts, and add comments. The final invoice is displayed with a detailed breakdown, including the total cost after discount.
-
-### README.md
-
-```markdown
-# Invoice Manager
+# Invoice Generator
 
 A Python console application for managing and generating invoices. The application allows for the addition of multiple items, tax calculations, discounts, and comments. It generates a detailed invoice breakdown that can be displayed.
 
@@ -85,7 +78,7 @@ cd INVOICE_Generator-Project
 
 3. Run the application:
 ```bash
-python 
+python Invoice_Generator.py
 ```
 
 ## Contributing
